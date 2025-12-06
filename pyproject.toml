@@ -1,7 +1,7 @@
 [project]
 name = "satfootprint"
 version = "0.1.0"
-description = "Add your description here"
+description = "Compute satellite sensor footprints on the Earth's surface"
 readme = "README.md"
 authors = [
     { name = "Takahiro Miyoshi", email = "takahiro-miyoshi@sankichi.net" }
